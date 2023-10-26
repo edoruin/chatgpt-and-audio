@@ -10,7 +10,7 @@ sl(2)
 intro = print('create by Edwin')
 
 
-openai.api_key = " " #add one api_key of one openai account 
+openai.api_key = "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" #add one api_key of one openai account 
 dato = input('escribe tu pregunta: ')
 print('procesando...')
 
